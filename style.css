@@ -1,0 +1,22 @@
+h1 {
+    color: #003d8d;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+h3 {
+    color: #3c3c3c;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #003d8d;
+}
+li {
+    list-style: none;
+}
